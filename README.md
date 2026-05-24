@@ -1,0 +1,3 @@
+# VibeCoding
+
+Initial repository setup.
